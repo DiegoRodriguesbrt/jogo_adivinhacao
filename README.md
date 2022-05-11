@@ -5,7 +5,7 @@ Projeto solicitado pelo professor Thiago Vasconcelos da disciplina de Introduç�
 
 Regras de negócio:
 
- ✅ O programa deverá avisar quando o palpite estiver acima ou abaixo da resposta correta;
+ ✅ O programa deverá avisar quando o palpite estiver acima ou abaixo da resposta correta;<br/>
  ✅ Quando o usuário acertar a resposta, o programa deve informar quantas tentativas o usuário usou para alcançar o número correto.
 
 ## Tecnologia utilizada
